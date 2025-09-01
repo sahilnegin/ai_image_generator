@@ -10,7 +10,7 @@ import {
 // --- KIE API CONFIG ---
 const KIE_API = "https://api.kie.ai/api/v1/gpt4o-image/record-info";
 const KIE_TOKEN = "9c864c5ce4567f00a4f21536abffabc3";
-const AD_WEBHOOK_URL = "https://vidgy.app.n8n.cloud/webhook/dfc4bb03-133f-4413-8f87-d6746addcf06";
+const AD_WEBHOOK_URL = "https://vidgy.app.n8n.cloud/webhook/f5768897-2394-47b0-9b02-8a251be1f3bd";
 const GOOGLE_SHEET_ID = "133ZHExWO_6Jfdmx_VRntJG_XJuy7wTXgepPs78yRuyg";
 const PROMPTS = [
   "Generate a modern smart touch panel UI design.",
